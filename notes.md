@@ -14,6 +14,10 @@ for pw in password:
     print(result.stdout)
 "
 
-
-
+PDF
+pdftotext pdf.pdf
+pdfinfo pdf.pdf
+pdf-parser pdf.pdf
+pdfid pdf.pdf
+pdfimages -all pdf.pdf image
 
